@@ -1,0 +1,11 @@
+Kundendaten
+Vorname: Daniyal
+Nachname: Hussain
+Straﬂe: Ulalastrasse
+Nr.: 33
+PLZ: 31222
+Ort: Hamburg
+Tel: 3333333333
+Salami Pizza XL  12.80Ä
+Veggie Pizza M  8.10Ä
+Sucuk Pizza L  11.30Ä

@@ -23,7 +23,11 @@ Dieses Projekt entstand in Zusammenarbeit mit drei weiteren Kommilitonen. Um ein
 
 Das Smartphone-Portal ist eine Webseite bei der ich mithilfe von zwei weiteren Kommilitonen versuchte habe, das Suchen, Filtern und Finden von bestimmten Handys zu vereinfachen. Auf der Hauptseite hat man eine Suchleiste, falls man direkt nach einem Handy suchen möchte, oder man schaut sich die große Sammlung an Handy-Panels an, die einem helfen verschiedene technische Daten miteinander zu vergleichen. Es existiert neben diesem großem Panel außerdem eine Sortier-/Filterseite bei der man nach bestimmten Parametern sowie Tags filtern und je nach Wunsch sorierten kann.  
 Jegliche Daten (technische Daten, Bilder, Nutzerdaten) haben wir in einem großen Datenbanksystem verwaltet, bei der wir viele verschiedene Cross-Abfragen unternommen hatten, um die Effizienz am Laufen zu halten. Um einen besseren Eindruck davon zu bekommen, kann man sich die Seite auch ganz einfach anschauen: [**SmartPhonePortal**](http://rdbs1718u02.pstud1.mt.haw-hamburg.de/main/index.php)
-
+ 
 ## Zusammenbau einer Armatur
 
 Bei diesem Projekt ging es darum, dass wir mithilfe des Catia v5-Programms ein technisches Konstrukt zusammenbauen sollten, welches bestimmte DIN- bzw. ISO-Normen erfüllte. Ein Kommilitone aus dem alten Studiengang und ich entschieden uns für die Armatur des Wasserhahns. 
+ 
+## Der Mensch im digitalen Zeitalter
+
+Ein kleines Projekt, bei der man eine Art Werbeplaket mithilfe von sehr einfachen Formen erstellen sollte. Dies ermöglichte einen tieferen Einblick in Sachen Gestaltung, wodurch man ein besseres Gefühl für Produktqualität und Kundenverständnis erhielt.

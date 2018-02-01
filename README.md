@@ -17,4 +17,8 @@ Damit man sich aber gegenüber sitzen kann, braucht man die Kuti. Die Kuti ist e
 ## SkeletonKnight
 
 Dieses Projekt entstand in Zusammenarbeit mit drei weiteren Kommilitonen. Um einen besseren Einblick in das Projekt zu bekommen, schauen Sie sich bitte die folgende Seite an:
-[SkeletonKnight Official Webpage](http://wiki.gamesmaster-hamburg.de/display/KS2/Project%3A+Skeleton+Knight)
+[**SkeletonKnight Official Webpage**](http://wiki.gamesmaster-hamburg.de/display/KS2/Project%3A+Skeleton+Knight)
+ 
+## SmartPhonePortal
+
+Das Smartphone-Portal ist eine Webseite bei der ich mithilfe von zwei weiteren Kommilitonen versuchte habe, das Suchen, Filtern und Finden von bestimmten Handys zu vereinfachen. Auf der Hauptseite hat man eine Suchleiste, falls man direkt nach einem Handy suchen möchte, oder man schaut sich die große Sammlung an Handy-Panels an, die einem helfen verschiedene technische Daten miteinander zu vergleichen. Es existiert neben diesem großem Panel außerdem eine Sortier-/Filterseite bei der man nach bestimmten Parametern sowie Tags filtern und je nach Wunsch sorierten kann. Jegliche Daten (technische Daten, Bilder, Nutzerdaten) haben wir in einem großen Datenbanksystem verwaltet, bei der wir viele verschiedene Cross-Abfragen unternommen hatten, um die Effizienz am Laufen zu halten. Um einen besseren Eindruck davon zu bekommen, kann man sich die Seite auch ganz einfach anschauen: [**SmartPhonePortal**](http://rdbs1718u02.pstud1.mt.haw-hamburg.de/main/index.php)

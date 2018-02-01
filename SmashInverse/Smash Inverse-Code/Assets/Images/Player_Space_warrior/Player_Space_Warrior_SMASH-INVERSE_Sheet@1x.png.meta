@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 33eefc64592387d4ab92ac1ec4c3692b
+timeCreated: 1481749996
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: head
+    21300002: torso
+    21300004: upperArm R
+    21300006: upperArm L
+    21300008: hand L
+    21300010: hand R
+    21300012: upperLeg R
+    21300014: upperLeg L
+    21300016: lowerArm L
+    21300018: foot R
+    21300020: foot L
+    21300022: lowerLeg R
+    21300024: lowerLeg L
+    21300026: lowerArm R
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1268
+        width: 669
+        height: 714
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.07787881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: torso
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1133
+        width: 664
+        height: 847
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16540642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: upperArm R
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1533
+        width: 290
+        height: 399
+      alignment: 9
+      pivot: {x: 0.49999958, y: 0.7536704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: upperArm L
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1069
+        width: 290
+        height: 399
+      alignment: 9
+      pivot: {x: 0.5077553, y: 0.7593076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hand L
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 749
+        width: 171
+        height: 171
+      alignment: 9
+      pivot: {x: 0.39477333, y: 0.8682922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hand R
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 749
+        width: 171
+        height: 171
+      alignment: 9
+      pivot: {x: 0.39477342, y: 0.85513896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: upperLeg R
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 548
+        width: 301
+        height: 430
+      alignment: 9
+      pivot: {x: 0.50747246, y: 0.7981515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: upperLeg L
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 548
+        width: 301
+        height: 430
+      alignment: 9
+      pivot: {x: 0.49252695, y: 0.8033822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lowerArm L
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 608
+        width: 203
+        height: 343
+      alignment: 9
+      pivot: {x: 0.51107895, y: 0.8229482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: foot R
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 481
+        width: 275
+        height: 107
+      alignment: 9
+      pivot: {x: 0.25463122, y: 0.7942893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: foot L
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 481
+        width: 275
+        height: 107
+      alignment: 9
+      pivot: {x: 0.26281038, y: 0.7942893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lowerLeg R
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 85
+        width: 205
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8419859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lowerLeg L
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 85
+        width: 205
+        height: 342
+      alignment: 9
+      pivot: {x: 0.4999988, y: 0.8485625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lowerArm R
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 138
+        width: 203
+        height: 343
+      alignment: 9
+      pivot: {x: 0.52215904, y: 0.8360633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

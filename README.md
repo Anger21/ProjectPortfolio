@@ -11,7 +11,7 @@ Dies erfolgte in einer Gruppenarbeit von insgesamt 5 Leuten.
   
 | ![anmeldenundregistrieren_bringmefood](https://user-images.githubusercontent.com/18042056/35773068-0eadb5e4-0948-11e8-9531-11c400ee21a4.PNG) | ![pizzahauptseite_bringmefood](https://user-images.githubusercontent.com/18042056/35773100-d6c258e6-0948-11e8-904a-9c6ecd0285b7.PNG) | ![vorgefertigtepizzenmitscroll_bringmefood](https://user-images.githubusercontent.com/18042056/35773126-37193cfa-0949-11e8-99c8-9df03764ca2d.PNG)
  |
-| --- | ![pizzazusammenstellen_bringmefood](https://user-images.githubusercontent.com/18042056/35773149-ff96a9ba-0949-11e8-8559-8b2038985002.PNG) | ![warenkorb_bringmefood](https://user-images.githubusercontent.com/18042056/35773154-2d3331ea-094a-11e8-99cc-996961ff78cf.PNG) | --- |
+| --- | ![pizzazusammenstellen_bringmefood](https://user-images.githubusercontent.com/18042056/35773149-ff96a9ba-0949-11e8-8559-8b2038985002.PNG) | ![warenkorb_bringmefood](https://user-images.githubusercontent.com/18042056/35773154-2d3331ea-094a-11e8-99cc-996961ff78cf.PNG) |
  
 ## SmashInverse
 

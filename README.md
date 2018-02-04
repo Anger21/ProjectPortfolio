@@ -27,7 +27,7 @@ Damit man sich aber gegenüber sitzen kann, braucht man die Kuti. Die Kuti ist e
 Dieses Projekt entstand in Zusammenarbeit mit drei weiteren Kommilitonen. Um einen besseren Einblick in das Projekt zu bekommen, schauen Sie sich bitte die folgende Seite an:
 [**Skeleton Knight Official Webpage**](http://wiki.gamesmaster-hamburg.de/display/KS2/Project%3A+Skeleton+Knight)
 
-[![ISkeleton Knight - Trailer](http://wiki.gamesmaster-hamburg.de/download/attachments/17763495/bild1.jpg?version=1&modificationDate=1506885266674&api=v2)](https://www.youtube.com/watch?v=SaNC3zDJMz4 "Skeleton Knight - Trailer")
+[![ISkeleton Knight - Trailer](https://i.imgur.com/2v7fHsD.jpg)](https://www.youtube.com/watch?v=SaNC3zDJMz4 "Skeleton Knight - Trailer")
  
 ## SmartPhonePortal
 

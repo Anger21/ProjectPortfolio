@@ -28,7 +28,7 @@ Dieses Projekt entstand in Zusammenarbeit mit drei weiteren Kommilitonen. Um ein
 [**Skeleton Knight Official Webpage**](http://wiki.gamesmaster-hamburg.de/display/KS2/Project%3A+Skeleton+Knight)  
 
 
-###### Direkter Link zum Video  
+##### Direkter Link zum Video  
 [![ISkeleton Knight - Trailer](https://i.imgur.com/2v7fHsD.jpg)](https://www.youtube.com/watch?v=SaNC3zDJMz4 "Skeleton Knight - Trailer")
  
 ## SmartPhonePortal

@@ -17,6 +17,10 @@ Dies erfolgte in einer Gruppenarbeit von insgesamt 5 Leuten.
 
 SmashInverse war mein erstes Projekt und auch ein Projekt, an dem ich alleine arbeitete. Es ist ein Unity-/C#-Projekt bei der sich zwei Kontrahenten gegenüber stehen und in einer abgewandelten Form von Smash Super Bros. gegenseitig versuchen die Leben abzuziehen, bis einer endgültig besiegt wird. Hierbei kann man mit dem normalen Schlag dem Gegner eine kleine Menge an Schaden zufügen. Möchte man also viel Schaden austeilen, so muss man die herumliegenden Schwerter einsammeln, um größeren Schaden anrichten zu können. Verhindern kann man dies jedoch mit den Schilden, die ebenfalls zufällig im Gebiet spawnen. Da das Spiel im Alleingang erstellt wurde, konnten viele Dinge nicht implementiert werden. Darunter fallen: größere Auswahl an Angriffsmöglichkeiten, Fernkampfangriffe, bessere Berechnungen des Schadens, bessere Animationen usw.. Das Spiel ist jedoch bis zum Ende hin spielbar und man hat dann verloren - und kann automatisch nicht mehr weiterkämpfen - wenn man alle seine Herzen verloren hat.  
 Damit man sich aber gegenüber sitzen kann, braucht man die Kuti. Die Kuti ist eine Art Spielbox, auf der verschiedene Half-Screen-Spiele laufen, wobei nur der Einsatz von drei Button gewährleistet ist.
+
+|  |  |  |  |   
+| --- | --- | --- | --- |  
+| ![beforethebattle_smashinverse](https://user-images.githubusercontent.com/18042056/35773332-165c1b30-094f-11e8-8186-8a0ef9a50932.PNG) | ![startofthebattle_smashinverse](https://user-images.githubusercontent.com/18042056/35773338-4b62e2d2-094f-11e8-813f-0a4e3eda8820.PNG) | ![lifedepleated_smashinverse](https://user-images.githubusercontent.com/18042056/35773341-6690a260-094f-11e8-9e9a-25ad65fb2de8.PNG) | ![death_smashinverse](https://user-images.githubusercontent.com/18042056/35773345-72ec8240-094f-11e8-9922-a39a3d086ebb.PNG) |  
  
 ## SkeletonKnight
 

@@ -8,6 +8,11 @@ Aus diesem Grund wurden die Quellcodes der Projekte hochgeladen, um Ihnen einen 
 
 BringMeFood, ein Java-Projekt, ist eine Pizza-Bestell-App(/-Programm), mit der sich der registrierte Nutzer seine Wunschpizza bestellen kann. Hierbei gibt es zwei Arten von Pizzen: die vorgefertigten und die selbstgemachte. Bei der vorgefertigten kann sich der registrierte Nutzer seine Pizza in der entsprechenden Größe in seinen Warenkorb legen und nach Eingabe seiner Lieferaddresse entsprechend bestellen. Das gleiche gilt auch für die vorgefertige Pizza, wobei dem Nutzer die Auswahl überlassen wird, seine Pizza nach eigenem Ermessen zu bestücken. Die Berechnung des Preises erfolgt dabei ganz dynamisch und man kann sich sicher sein, dass jeglicher Belag mit in den Preis fällt. Sollte man also seine Bestellanfrage abgeschickt haben, so werden dem Server die Lieferaddresse sowie die im Warenkorb erhältlichen Produkte zugesendet.  
 Dies erfolgte in einer Gruppenarbeit von insgesamt 5 Leuten.
+  
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![anmeldenundregistrieren_bringmefood](https://user-images.githubusercontent.com/18042056/35773068-0eadb5e4-0948-11e8-9531-11c400ee21a4.PNG) | ![pizzahauptseite_bringmefood](https://user-images.githubusercontent.com/18042056/35773100-d6c258e6-0948-11e8-904a-9c6ecd0285b7.PNG) | ![vorgefertigtepizzenmitscroll_bringmefood](https://user-images.githubusercontent.com/18042056/35773126-37193cfa-0949-11e8-99c8-9df03764ca2d.PNG)
+ | 
  
 ## SmashInverse
 

@@ -13,19 +13,21 @@ Dies erfolgte in einer Gruppenarbeit von insgesamt 5 Leuten.
 | --- | --- | --- | --- | --- |  
 | ![anmeldenundregistrieren_bringmefood](https://user-images.githubusercontent.com/18042056/35773068-0eadb5e4-0948-11e8-9531-11c400ee21a4.PNG) | ![pizzahauptseite_bringmefood](https://user-images.githubusercontent.com/18042056/35773100-d6c258e6-0948-11e8-904a-9c6ecd0285b7.PNG) | ![vorgefertigtepizzenmitscroll_bringmefood](https://user-images.githubusercontent.com/18042056/35773126-37193cfa-0949-11e8-99c8-9df03764ca2d.PNG) | ![pizzazusammenstellen_bringmefood](https://user-images.githubusercontent.com/18042056/35773206-92a10fb0-094b-11e8-94d6-8fcf5572cc2e.PNG) | ![warenkorb_bringmefood](https://user-images.githubusercontent.com/18042056/35773154-2d3331ea-094a-11e8-99cc-996961ff78cf.PNG) | 
  
-## SmashInverse
+## Smash Inverse
 
-SmashInverse war mein erstes Projekt und auch ein Projekt, an dem ich alleine arbeitete. Es ist ein Unity-/C#-Projekt bei der sich zwei Kontrahenten gegenüber stehen und in einer abgewandelten Form von Smash Super Bros. gegenseitig versuchen die Leben abzuziehen, bis einer endgültig besiegt wird. Hierbei kann man mit dem normalen Schlag dem Gegner eine kleine Menge an Schaden zufügen. Möchte man also viel Schaden austeilen, so muss man die herumliegenden Schwerter einsammeln, um größeren Schaden anrichten zu können. Verhindern kann man dies jedoch mit den Schilden, die ebenfalls zufällig im Gebiet spawnen. Da das Spiel im Alleingang erstellt wurde, konnten viele Dinge nicht implementiert werden. Darunter fallen: größere Auswahl an Angriffsmöglichkeiten, Fernkampfangriffe, bessere Berechnungen des Schadens, bessere Animationen usw.. Das Spiel ist jedoch bis zum Ende hin spielbar und man hat dann verloren - und kann automatisch nicht mehr weiterkämpfen - wenn man alle seine Herzen verloren hat.  
+Smash Inverse war mein erstes Projekt und auch ein Projekt, an dem ich alleine arbeitete. Es ist ein Unity-/C#-Projekt bei der sich zwei Kontrahenten gegenüber stehen und in einer abgewandelten Form von Smash Super Bros. gegenseitig versuchen die Leben abzuziehen, bis einer endgültig besiegt wird. Hierbei kann man mit dem normalen Schlag dem Gegner eine kleine Menge an Schaden zufügen. Möchte man also viel Schaden austeilen, so muss man die herumliegenden Schwerter einsammeln, um größeren Schaden anrichten zu können. Verhindern kann man dies jedoch mit den Schilden, die ebenfalls zufällig im Gebiet spawnen. Da das Spiel im Alleingang erstellt wurde, konnten viele Dinge nicht implementiert werden. Darunter fallen: größere Auswahl an Angriffsmöglichkeiten, Fernkampfangriffe, bessere Berechnungen des Schadens, bessere Animationen usw.. Das Spiel ist jedoch bis zum Ende hin spielbar und man hat dann verloren - und kann automatisch nicht mehr weiterkämpfen - wenn man alle seine Herzen verloren hat.  
 Damit man sich aber gegenüber sitzen kann, braucht man die Kuti. Die Kuti ist eine Art Spielbox, auf der verschiedene Half-Screen-Spiele laufen, wobei nur der Einsatz von drei Button gewährleistet ist.
 
 |  |  |  |  |   
 | --- | --- | --- | --- |  
 | ![beforethebattle_smashinverse](https://user-images.githubusercontent.com/18042056/35773332-165c1b30-094f-11e8-8186-8a0ef9a50932.PNG) | ![startofthebattle_smashinverse](https://user-images.githubusercontent.com/18042056/35773338-4b62e2d2-094f-11e8-813f-0a4e3eda8820.PNG) | ![lifedepleated_smashinverse](https://user-images.githubusercontent.com/18042056/35773341-6690a260-094f-11e8-9e9a-25ad65fb2de8.PNG) | ![death_smashinverse](https://user-images.githubusercontent.com/18042056/35773345-72ec8240-094f-11e8-9922-a39a3d086ebb.PNG) |  
- 
-## SkeletonKnight
+
+## Skeleton Knight
 
 Dieses Projekt entstand in Zusammenarbeit mit drei weiteren Kommilitonen. Um einen besseren Einblick in das Projekt zu bekommen, schauen Sie sich bitte die folgende Seite an:
-[**SkeletonKnight Official Webpage**](http://wiki.gamesmaster-hamburg.de/display/KS2/Project%3A+Skeleton+Knight)
+[**Skeleton Knight Official Webpage**](http://wiki.gamesmaster-hamburg.de/display/KS2/Project%3A+Skeleton+Knight)
+
+[![ISkeleton Knight - Trailer](http://wiki.gamesmaster-hamburg.de/download/attachments/17763495/bild1.jpg?version=1&modificationDate=1506885266674&api=v2)](https://www.youtube.com/watch?v=SaNC3zDJMz4 "Skeleton Knight - Trailer")
  
 ## SmartPhonePortal
 
